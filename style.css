@@ -1,0 +1,31 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    color: white;
+}
+
+.bio-section {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.bio {
+    width: 50%;
+    background-color: #6c757d; 
+    border: 50px solid #17a2b8; 
+    padding: 20px;
+}
